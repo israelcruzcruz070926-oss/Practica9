@@ -1,4 +1,6 @@
-/*programa1a.c*/
+/*Israel Cruz Cruz
+Practica 9
+programa1a.c*/
 #include <stdio.h>
 int main ()
 {
